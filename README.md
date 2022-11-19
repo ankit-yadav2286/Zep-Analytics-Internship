@@ -29,9 +29,10 @@ This Project includes 1 jupyter notebook and 1 .pptx File of Presentation.
 
 https://github.com/ankit-yadav2286/Zep-Analytics-Internship/blob/main/Spanish%20wine%20Price%20Prediction.ipynb  Includes EDA and all Algorithms which are used in this project.
  
- https://github.com/ankit-yadav2286/Zep-Analytics-Internship/blob/main/Spanish%20Wine%20Price%20Prediction%20Project.pptx  includes pdf of the presentation of the project.
+https://github.com/ankit-yadav2286/Zep-Analytics-Internship/blob/main/Spanish%20Wine%20Price%20Prediction%20Project.pptx  includes pdf of the presentation of the project.
  
-  Includes the report on the Project
+https://github.com/ankit-yadav2286/Zep-Analytics-Internship/blob/main/REPORT%20Spanish%20Wine.pdf Includes the report on the Project
+  
  # Conclusion
  The ensemble models have performed well compared to that of linear, Decision Tree.
 The best performance is given by the Xtreme Gradient boosting model.
